@@ -1,7 +1,17 @@
-# Разграничение доступа к FAQ
+# knowitop-faq-customer-access/1.0.0
+
+## Разграничение доступа к FAQ
 
 Собственный список статей в базе знаний для каждого заказчика.
 
 Модуль позволяет разграничить доступ к статьям FAQ на уровне организаций: для каждого заказчика может быть сформирован отдельный список статей FAQ, который будет доступен только его сотрудникам. Модуль также добавляет атрибут Статус со значениями Черновик/Опубликованный/Устаревший для управления жизненным циклом объектов FAQ.
 
-Требования: iTop 2.6.0.
+Требования: iTop 2.6.0 или выше.
+
+## FAQ Access Control
+
+A dedicated knowledge base article list for each customer.
+
+This module enables access control for FAQ articles at the organization level: each customer can have their own set of FAQ articles, visible only to their employees. The module also adds a Status attribute with the values Draft/Published/Obsolete to manage the FAQ lifecycle.
+
+Requirements: iTop 2.6.0 or higher.
