@@ -1,6 +1,6 @@
 # knowitop-faq-customer-access/1.0.0
 
-## Разграничение доступа к FAQ
+## Разграничение доступа к FAQ для Combodo iTop
 
 Собственный список статей в базе знаний для каждого заказчика.
 
@@ -8,7 +8,7 @@
 
 Требования: iTop 2.6.0 или выше.
 
-## FAQ Access Control
+## FAQ Access Control for Combodo iTop
 
 A dedicated knowledge base article list for each customer.
 
